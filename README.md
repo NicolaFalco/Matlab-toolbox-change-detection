@@ -14,7 +14,7 @@ doi:10.1080/01431161.2016.1154226.
 ********************************************************************
 **AUTHORS:**
 
-Nicola Falco (nicolafalco@ieee.org)
+Nicola Falco (nicolafalco@ieee.org)\\
 Earth and Environmental Sciences Area, Lawrence Berkeley National Laboratory, 94720 Berkeley, California. USA.
 
 Prashanth R. Marpu (pmarpu@masdar.ac.ae)
