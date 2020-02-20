@@ -5,8 +5,8 @@ Matlab toolbox change detection. The use of the tool is regulated by GNU GPL lic
 
 If the tool or any its part has been used, the following reference must be cited:
  
-Falco, Nicola, Prashanth Reddy Marpu, and Jon Atli Benediktsson. 2016.“A Toolbox for Unsupervised Change Detection Analysis\
-” International Journal of Remote Sensing 37 (7): 1505–1526.https://doi.org/10.1080/01431161.2016.1154226.
+Falco, Nicola, Prashanth Reddy Marpu, and Jon Atli Benediktsson. 2016. “A Toolbox for Unsupervised Change Detection Analysis".\
+International Journal of Remote Sensing 37 (7): 1505–1526.https://doi.org/10.1080/01431161.2016.1154226.
 
 
 ********************************************************************
