@@ -14,13 +14,16 @@ doi:10.1080/01431161.2016.1154226.
 ********************************************************************
 **AUTHORS:**
 
-Nicola Falco (nicolafalco@ieee.org)\\
+Nicola Falco (nicolafalco@ieee.org)
+
 Earth and Environmental Sciences Area, Lawrence Berkeley National Laboratory, 94720 Berkeley, California. USA.
 
 Prashanth R. Marpu (pmarpu@masdar.ac.ae)
+
 Earth Observation and Hydro-Climatology Laboratory, Masdar Institute, Masdar City, 54224 Abu Dhabi, UAE.
 
 Jon A. Benediktsson (benedikt@hi.is)
+
 Faculty of Electrical and Computer Engineering, University of Iceland, 101 Reykjavik, Iceland.
 
 
