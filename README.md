@@ -30,7 +30,7 @@ Faculty of Electrical and Computer Engineering, University of Iceland, 101 Reykj
 
 
 ********************************************************************
-**MAIN FUNCTIONS: **
+**MAIN FUNCTIONS:**
 * CD_IRMAD_ITPCA
 * ICM/ ICM.m	ICM/ICMLine.m
 * IRMAD/IRMAD.m	IRMAD/IRMADLine.m
