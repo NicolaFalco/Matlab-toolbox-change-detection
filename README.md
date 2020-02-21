@@ -24,7 +24,7 @@ Faculty of Electrical and Computer Engineering, University of Iceland, 101 Reykj
 
 ********************************************************************
 **DATA INPUT:**
-* input: two coregistred multitemporal multispectral data. 
+* input: two coregistred multitemporal multispectral data. The images need to be ENVI RAW format without extension with a *.hdr file
 * output: intensity image representing the probability of change obtained by either ITPCA or IRMAD technique.
 
 
