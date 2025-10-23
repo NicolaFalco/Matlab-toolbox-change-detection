@@ -12,7 +12,7 @@ International Journal of Remote Sensing 37 (7): 1505–1526.https://doi.org/10.1
 ********************************************************************
 **AUTHORS:**
 
-Nicola Falco (nicolafalco@ieee.org)\
+Nicola Falco (nicolafalco@lbl.gov)\
 Earth and Environmental Sciences Area, Lawrence Berkeley National Laboratory, 94720 Berkeley, California. USA.
 
 Prashanth R. Marpu (pmarpu@masdar.ac.ae)\
